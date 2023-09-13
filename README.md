@@ -1,3 +1,3 @@
-# Yelp-Camp
+# Camp-sites
 
-Web Development course project
+Project built for Web Development bootcamp for HTML, CSS and Javascript
